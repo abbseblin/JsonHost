@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "GWS TestStation 1",
+    "Type": "Stationary",
+    "Status": "OK"
+  },
+  {
+    "Name": "GWS TestStation 2",
+    "Type": "Stationary",
+    "Status": "Not Starting"
+  },
+  {
+    "Name": "GWS TestStation 3",
+    "Type": "Stationary",
+    "Status": "OK"
+  },
+  {
+    "Name": "GWS TestStation 4",
+    "Type": "Stationary",
+    "Status": "OK"
+  },
+  {
+    "Name": "GWS Simulator 5",
+    "Type": "Laptop",
+    "Status": "OK"
+  },
+  {
+    "Name": "GWS Simulator 6",
+    "Type": "Laptop",
+    "Status": "OK"
+  }
+]
